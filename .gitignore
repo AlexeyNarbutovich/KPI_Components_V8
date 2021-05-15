@@ -102,3 +102,5 @@ dist
 
 # TernJS port file
 .tern-port
+/.idea/KPI_Components_V8.iml
+/.idea/vcs.xml
