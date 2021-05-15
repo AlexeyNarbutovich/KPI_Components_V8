@@ -1,0 +1,20 @@
+{
+  "name": "kpi_components_v8",
+  "version": "1.0.0",
+  "description": "taylor series calculation",
+  "main": "Main.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexeyNarbutovich/KPI_Components_V8.git"
+  },
+  "author": "Narbutovych Oleksii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexeyNarbutovich/KPI_Components_V8/issues"
+  },
+  "homepage": "https://github.com/AlexeyNarbutovich/KPI_Components_V8#readme"
+}
