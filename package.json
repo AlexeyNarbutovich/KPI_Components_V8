@@ -1,6 +1,6 @@
 {
   "name": "kpi_components_v8",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "taylor series calculation",
   "main": "Main.js",
   "type": "commonjs",
