@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/AlexeyNarbutovich/KPI_Components_V8/issues"
   },
-  "homepage": "https://github.com/AlexeyNarbutovich/KPI_Components_V8#readme"
+  "homepage": "https://github.com/AlexeyNarbutovich/KPI_Components_V8#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.4.0"
+  }
 }
