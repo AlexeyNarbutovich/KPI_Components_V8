@@ -1,4 +1,4 @@
-function Tailor(x, count){
+function TaylorA(x, count){
     //1+((n-1)*n)/fact(n))*X
     let result = 1;
     let nominator = [];
@@ -19,4 +19,4 @@ function factorial(number){
 
 }
 
-module.exports = Tailor
+module.exports = TaylorA
